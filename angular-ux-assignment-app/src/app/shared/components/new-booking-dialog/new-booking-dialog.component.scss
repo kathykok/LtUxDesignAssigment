@@ -1,0 +1,32 @@
+.confirm-dialog__actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.dialog-header {
+  display: flex;
+}
+
+.dialog-header-bottom-border {
+  border-bottom: 1px solid #e0e0e0;
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-bottom: 15px;
+}
+
+button {
+  margin-left: 15px;
+}
+
+.fill {
+  flex: 1;
+}
+
+.dialog-form-field-container {
+  display: flex;
+}
+
+mat-form-field {
+  flex: 1;
+  margin-right: 15px;
+}
