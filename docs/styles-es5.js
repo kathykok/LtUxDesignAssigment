@@ -464,7 +464,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       module.exports = __webpack_require__(
-      /*! C:\Users\KathyKok\development\LtUxDesignAssigment\angular-ux-assignment-app\src\styles.scss */
+      /*! C:\Users\KathyKok\development\LtUxDesignAssigment\src\styles.scss */
       "./src/styles.scss");
       /***/
     }

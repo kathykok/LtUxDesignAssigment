@@ -5986,7 +5986,7 @@
     /***/
     function _(module, exports, __webpack_require__) {
       module.exports = __webpack_require__(
-      /*! C:\Users\KathyKok\development\LtUxDesignAssigment\angular-ux-assignment-app\src\main.ts */
+      /*! C:\Users\KathyKok\development\LtUxDesignAssigment\src\main.ts */
       "./src/main.ts");
       /***/
     }
