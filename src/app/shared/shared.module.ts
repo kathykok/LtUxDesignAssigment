@@ -12,11 +12,13 @@ import { PageHeaderBackComponent } from './components/page-header-back/page-head
 import { PageHeaderTitleComponent } from './components/page-header-title/page-header-title.component'
 import { ConfirmDialogComponent } from './components/confirm-dialog/confirm-dialog.component'
 import { NewBookingDialogComponent } from './components/new-booking-dialog/new-booking-dialog.component'
+import { FormsModule } from '@angular/forms'
 
 
 @NgModule({
   imports: [
     CommonModule,
+    FormsModule,
     MaterialModule,
   ],
   declarations: [

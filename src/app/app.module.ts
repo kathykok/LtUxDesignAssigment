@@ -10,6 +10,8 @@ import { HomeComponent } from './core/components/home/home.component'
 import { HeaderComponent } from './core/components/header/header.component'
 import { FooterComponent } from './core/components/footer/footer.component'
 import { NotificationPageComponent } from './core/components/notification-page/notification-page.component'
+import { FormsModule } from '@angular/forms';
+
 
 
 @NgModule({
@@ -23,6 +25,7 @@ import { NotificationPageComponent } from './core/components/notification-page/n
   imports: [
     // angular
     BrowserModule,
+    FormsModule,
 
     // material design
     BrowserAnimationsModule,

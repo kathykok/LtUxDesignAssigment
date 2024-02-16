@@ -27,6 +27,6 @@ export class UsersApiService implements ApiServiceModel<User> {
     params = params.set('pageIndex', collectionParams?.pageIndex?.toString())
     params = params.set('pageSize', collectionParams?.pageSize?.toString())
 
-    return this.http.get(`/assets/${USERS_API_ENDPOINT}`, { params })
+    return this.http.get(`${document.baseURI}/assets${USERS_API_ENDPOINT}`, { params })
   }
 }
