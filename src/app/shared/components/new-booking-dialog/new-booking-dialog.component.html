@@ -89,7 +89,7 @@
   <h4 class="search-box-header">Search items for hire</h4>
   <div class="search-box flex-container">
 
-    <div class="fill">
+    <div class="fill" style="margin-right: 15px;">
 
       <button mat-stroked-button color="primary" class="full-width">Search</button>
 
@@ -120,6 +120,43 @@
       </table>
     </div>
     <div class="fill">
+      <button mat-stroked-button color="primary" class="full-width">Email us to enquire about special orders</button>
+
+
+      <div class="flex-container" style="margin-top: 15px;">
+
+        <mat-form-field appearance="outline" floatLabel="always">
+          <mat-label>Branch</mat-label>
+          <input matInput>
+        </mat-form-field>
+
+        <mat-form-field appearance="outline" floatLabel="always">
+          <mat-label>Booking start</mat-label>
+          <input matInput [matDatepicker]="picker1">
+          <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
+          <mat-datepicker #picker1></mat-datepicker>
+        </mat-form-field>
+
+        <mat-form-field appearance="outline" floatLabel="always">
+          <mat-label>Booking end</mat-label>
+          <input matInput [matDatepicker]="picker2">
+          <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+          <mat-datepicker #picker2></mat-datepicker>
+        </mat-form-field>
+
+      </div>
+
+      <div class="flex-container">
+        <mat-form-field appearance="outline" floatLabel="always">
+          <mat-label>Quantity</mat-label>
+          <input matInput>
+        </mat-form-field>
+
+        <div class="fill">
+          <button mat-stroked-button color="accent" class="full-width">Book</button>
+        </div>
+
+      </div>
 
     </div>
 
