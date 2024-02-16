@@ -1931,7 +1931,7 @@ function NewBookingDialogComponent_tr_86_Template(rf, ctx) { if (rf & 1) {
 function NewBookingDialogComponent_tr_87_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 43);
 } }
-function NewBookingDialogComponent_div_125_Template(rf, ctx) { if (rf & 1) {
+function NewBookingDialogComponent_div_121_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 47);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1940,7 +1940,7 @@ function NewBookingDialogComponent_div_125_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", "assets/WeddingHireItems" + ctx_r28.getImageNumber(ctx_r28.selectedItem.Code) + ".png", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
-function NewBookingDialogComponent_div_126_Template(rf, ctx) { if (rf & 1) {
+function NewBookingDialogComponent_div_122_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "iframe", 48);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -2047,7 +2047,7 @@ class NewBookingDialogComponent {
     }
 }
 NewBookingDialogComponent.ɵfac = function NewBookingDialogComponent_Factory(t) { return new (t || NewBookingDialogComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_material_dialog__WEBPACK_IMPORTED_MODULE_1__["MatDialogRef"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_material_dialog__WEBPACK_IMPORTED_MODULE_1__["MAT_DIALOG_DATA"])); };
-NewBookingDialogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: NewBookingDialogComponent, selectors: [["app-new-booking-dialog"]], decls: 127, vars: 27, consts: [[1, "dialog-header"], ["mat-dialog-title", ""], [1, "fill"], ["mat-stroked-button", "", 3, "mat-dialog-close", "color"], ["mat-stroked-button", "", 3, "mat-dialog-close"], [1, "dialog-header-bottom-border"], ["mat-dialog-content", ""], [1, "flex-container"], ["appearance", "outline", "floatLabel", "always"], ["matInput", ""], ["matInput", "", "rows", "4"], [1, "booking-line-table-container"], ["mat-table", "", "matSort", "", "matSortDisableClear", "", 1, "w-100", 3, "dataSource"], ["matColumnDef", "Code"], ["mat-header-cell", "", "mat-sort-header", "", 4, "matHeaderCellDef"], ["mat-cell", "", 4, "matCellDef"], ["matColumnDef", "Description"], ["matColumnDef", "Branch"], ["matColumnDef", "Quantity"], ["matColumnDef", "StartDate"], ["matColumnDef", "EndDate"], ["matColumnDef", "Actions"], ["mat-header-row", "", 4, "matHeaderRowDef", "matHeaderRowDefSticky"], ["mat-row", "", 4, "matRowDef", "matRowDefColumns"], [1, "search-box-header"], [1, "search-box"], [1, "flex-container", 2, "margin-top", "15px"], ["matInput", "", 3, "ngModel", "ngModelChange"], [1, "fill", 2, "margin-right", "15px"], ["mat-stroked-button", "", "color", "primary", 1, "full-width", 3, "click"], [1, "search-table-container"], ["matColumnDef", "select"], ["mat-header-cell", "", 4, "matHeaderCellDef"], ["mat-cell", "", 3, "click", 4, "matCellDef"], ["matColumnDef", "Available"], ["mat-stroked-button", "", "color", "primary", 1, "full-width"], ["mat-stroked-button", "", "color", "accent", 1, "full-width", 3, "click"], ["matInput", "", 3, "readonly", "value"], [4, "ngIf"], ["mat-header-cell", "", "mat-sort-header", ""], ["mat-cell", ""], ["mat-icon-button", "", 3, "click"], ["mat-header-row", ""], ["mat-row", ""], ["mat-header-cell", ""], [3, "checked", "click", "change"], ["mat-cell", "", 3, "click"], [2, "height", "200px", 3, "src"], ["src", "https://calendar.google.com/calendar/embed?src=g158je1dkc4hk36uvafj8aerc0%40group.calendar.google.com&ctz=Pacific%2FAuckland", "width", "800", "height", "600", "frameborder", "0", "scrolling", "no", 2, "border", "0"]], template: function NewBookingDialogComponent_Template(rf, ctx) { if (rf & 1) {
+NewBookingDialogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: NewBookingDialogComponent, selectors: [["app-new-booking-dialog"]], decls: 123, vars: 25, consts: [[1, "dialog-header"], ["mat-dialog-title", ""], [1, "fill"], ["mat-stroked-button", "", 3, "mat-dialog-close", "color"], ["mat-stroked-button", "", 3, "mat-dialog-close"], [1, "dialog-header-bottom-border"], ["mat-dialog-content", ""], [1, "flex-container"], ["appearance", "outline", "floatLabel", "always"], ["matInput", ""], ["matInput", "", "rows", "4"], [1, "booking-line-table-container"], ["mat-table", "", "matSort", "", "matSortDisableClear", "", 1, "w-100", 3, "dataSource"], ["matColumnDef", "Code"], ["mat-header-cell", "", "mat-sort-header", "", 4, "matHeaderCellDef"], ["mat-cell", "", 4, "matCellDef"], ["matColumnDef", "Description"], ["matColumnDef", "Branch"], ["matColumnDef", "Quantity"], ["matColumnDef", "StartDate"], ["matColumnDef", "EndDate"], ["matColumnDef", "Actions"], ["mat-header-row", "", 4, "matHeaderRowDef", "matHeaderRowDefSticky"], ["mat-row", "", 4, "matRowDef", "matRowDefColumns"], [1, "search-box-header"], [1, "search-box"], [1, "flex-container", 2, "margin-top", "15px"], ["matInput", "", 3, "ngModel", "ngModelChange"], [1, "fill", 2, "margin-right", "15px"], ["mat-stroked-button", "", "color", "primary", 1, "full-width", 3, "click"], [1, "search-table-container"], ["matColumnDef", "select"], ["mat-header-cell", "", 4, "matHeaderCellDef"], ["mat-cell", "", 3, "click", 4, "matCellDef"], ["matColumnDef", "Available"], ["mat-stroked-button", "", "color", "primary", 1, "full-width"], ["mat-stroked-button", "", "color", "accent", 1, "full-width", 3, "click"], ["matInput", "", 3, "readonly", "value"], [4, "ngIf"], ["mat-header-cell", "", "mat-sort-header", ""], ["mat-cell", ""], ["mat-icon-button", "", 3, "click"], ["mat-header-row", ""], ["mat-row", ""], ["mat-header-cell", ""], [3, "checked", "click", "change"], ["mat-cell", "", 3, "click"], [2, "height", "200px", 3, "src"], ["src", "https://calendar.google.com/calendar/embed?src=g158je1dkc4hk36uvafj8aerc0%40group.calendar.google.com&ctz=Pacific%2FAuckland", "width", "800", "height", "600", "frameborder", "0", "scrolling", "no", 2, "border", "0"]], template: function NewBookingDialogComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h1", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2);
@@ -2236,15 +2236,9 @@ NewBookingDialogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵ
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](120, "input", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](121, "mat-form-field", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](122, "mat-label");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](123, "Description");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](124, "input", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](125, NewBookingDialogComponent_div_125_Template, 2, 1, "div", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](126, NewBookingDialogComponent_div_126_Template, 2, 0, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](121, NewBookingDialogComponent_div_121_Template, 2, 1, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](122, NewBookingDialogComponent_div_122_Template, 2, 0, "div", 38);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -2284,8 +2278,6 @@ NewBookingDialogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵ
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngModel", ctx.quantity);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("readonly", true)("value", ctx.selectedItem == null ? null : ctx.selectedItem.Code);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("readonly", true)("value", ctx.selectedItem == null ? null : ctx.selectedItem.Description);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("readonly", true)("value", ctx.selectedItem == null ? null : ctx.selectedItem.Description);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
