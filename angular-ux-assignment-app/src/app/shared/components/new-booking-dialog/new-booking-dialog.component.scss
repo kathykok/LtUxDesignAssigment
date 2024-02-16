@@ -22,11 +22,20 @@ button {
   flex: 1;
 }
 
-.dialog-form-field-container {
+.flex-container {
   display: flex;
 }
 
 mat-form-field {
   flex: 1;
   margin-right: 15px;
+}
+
+.booking-line-table-container {
+  min-height: 200px;
+}
+
+.search-box {
+  background-color: #a5ceff40;
+  padding: 20px;
 }
