@@ -3679,7 +3679,7 @@
 
       function NewBookingDialogComponent_th_27_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Code");
 
@@ -3689,7 +3689,7 @@
 
       function NewBookingDialogComponent_td_28_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -3707,7 +3707,7 @@
 
       function NewBookingDialogComponent_th_30_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Description");
 
@@ -3717,7 +3717,7 @@
 
       function NewBookingDialogComponent_td_31_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -3735,7 +3735,7 @@
 
       function NewBookingDialogComponent_th_33_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Branch");
 
@@ -3745,7 +3745,7 @@
 
       function NewBookingDialogComponent_td_34_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -3763,7 +3763,7 @@
 
       function NewBookingDialogComponent_th_36_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Quantity");
 
@@ -3773,7 +3773,7 @@
 
       function NewBookingDialogComponent_td_37_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -3791,7 +3791,7 @@
 
       function NewBookingDialogComponent_th_39_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "StartDate");
 
@@ -3801,7 +3801,7 @@
 
       function NewBookingDialogComponent_td_40_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -3819,7 +3819,7 @@
 
       function NewBookingDialogComponent_th_42_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "EndDate");
 
@@ -3829,7 +3829,7 @@
 
       function NewBookingDialogComponent_td_43_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -3847,7 +3847,7 @@
 
       function NewBookingDialogComponent_th_45_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Actions");
 
@@ -3859,9 +3859,9 @@
         if (rf & 1) {
           var _r40 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "button", 27);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "button", 28);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NewBookingDialogComponent_td_46_Template_button_click_1_listener() {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r40);
@@ -3887,19 +3887,19 @@
 
       function NewBookingDialogComponent_tr_47_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 28);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 29);
         }
       }
 
       function NewBookingDialogComponent_tr_48_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 29);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 30);
         }
       }
 
-      function NewBookingDialogComponent_th_53_Template(rf, ctx) {
+      function NewBookingDialogComponent_th_55_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Code");
 
@@ -3907,9 +3907,9 @@
         }
       }
 
-      function NewBookingDialogComponent_td_54_Template(rf, ctx) {
+      function NewBookingDialogComponent_td_56_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -3925,9 +3925,9 @@
         }
       }
 
-      function NewBookingDialogComponent_th_56_Template(rf, ctx) {
+      function NewBookingDialogComponent_th_58_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Description");
 
@@ -3935,9 +3935,9 @@
         }
       }
 
-      function NewBookingDialogComponent_td_57_Template(rf, ctx) {
+      function NewBookingDialogComponent_td_59_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -3953,9 +3953,9 @@
         }
       }
 
-      function NewBookingDialogComponent_th_59_Template(rf, ctx) {
+      function NewBookingDialogComponent_th_61_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Branch");
 
@@ -3963,9 +3963,9 @@
         }
       }
 
-      function NewBookingDialogComponent_td_60_Template(rf, ctx) {
+      function NewBookingDialogComponent_td_62_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -3981,9 +3981,9 @@
         }
       }
 
-      function NewBookingDialogComponent_th_62_Template(rf, ctx) {
+      function NewBookingDialogComponent_th_64_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Quantity");
 
@@ -3991,9 +3991,9 @@
         }
       }
 
-      function NewBookingDialogComponent_td_63_Template(rf, ctx) {
+      function NewBookingDialogComponent_td_65_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -4009,9 +4009,9 @@
         }
       }
 
-      function NewBookingDialogComponent_th_65_Template(rf, ctx) {
+      function NewBookingDialogComponent_th_67_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "StartDate");
 
@@ -4019,9 +4019,9 @@
         }
       }
 
-      function NewBookingDialogComponent_td_66_Template(rf, ctx) {
+      function NewBookingDialogComponent_td_68_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -4037,9 +4037,9 @@
         }
       }
 
-      function NewBookingDialogComponent_th_68_Template(rf, ctx) {
+      function NewBookingDialogComponent_th_70_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "EndDate");
 
@@ -4047,9 +4047,9 @@
         }
       }
 
-      function NewBookingDialogComponent_td_69_Template(rf, ctx) {
+      function NewBookingDialogComponent_td_71_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
 
@@ -4065,9 +4065,9 @@
         }
       }
 
-      function NewBookingDialogComponent_th_71_Template(rf, ctx) {
+      function NewBookingDialogComponent_th_73_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 25);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "Actions");
 
@@ -4075,15 +4075,15 @@
         }
       }
 
-      function NewBookingDialogComponent_td_72_Template(rf, ctx) {
+      function NewBookingDialogComponent_td_74_Template(rf, ctx) {
         if (rf & 1) {
           var _r50 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 26);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "button", 27);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "button", 28);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NewBookingDialogComponent_td_72_Template_button_click_1_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function NewBookingDialogComponent_td_74_Template_button_click_1_listener() {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r50);
 
             var element_r48 = ctx.$implicit;
@@ -4105,15 +4105,15 @@
         }
       }
 
-      function NewBookingDialogComponent_tr_73_Template(rf, ctx) {
+      function NewBookingDialogComponent_tr_75_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 28);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 29);
         }
       }
 
-      function NewBookingDialogComponent_tr_74_Template(rf, ctx) {
+      function NewBookingDialogComponent_tr_76_Template(rf, ctx) {
         if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 29);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 30);
         }
       }
 
@@ -4158,9 +4158,9 @@
       NewBookingDialogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
         type: NewBookingDialogComponent,
         selectors: [["app-new-booking-dialog"]],
-        decls: 76,
+        decls: 78,
         vars: 14,
-        consts: [[1, "dialog-header"], ["mat-dialog-title", ""], [1, "fill"], ["mat-stroked-button", "", 3, "mat-dialog-close", "color"], ["mat-stroked-button", "", 3, "mat-dialog-close"], [1, "dialog-header-bottom-border"], ["mat-dialog-content", ""], [1, "flex-container"], ["appearance", "outline", "floatLabel", "always"], ["matInput", ""], ["matInput", "", "rows", "4"], [1, "booking-line-table-container"], ["mat-table", "", "matSort", "", "matSortDisableClear", "", 1, "w-100", 3, "dataSource"], ["matColumnDef", "Code"], ["mat-header-cell", "", "mat-sort-header", "", 4, "matHeaderCellDef"], ["mat-cell", "", 4, "matCellDef"], ["matColumnDef", "Description"], ["matColumnDef", "Branch"], ["matColumnDef", "Quantity"], ["matColumnDef", "StartDate"], ["matColumnDef", "EndDate"], ["matColumnDef", "Actions"], ["mat-header-row", "", 4, "matHeaderRowDef", "matHeaderRowDefSticky"], ["mat-row", "", 4, "matRowDef", "matRowDefColumns"], [1, "search-box", "flex-container"], ["mat-header-cell", "", "mat-sort-header", ""], ["mat-cell", ""], ["mat-icon-button", "", 3, "click"], ["mat-header-row", ""], ["mat-row", ""]],
+        consts: [[1, "dialog-header"], ["mat-dialog-title", ""], [1, "fill"], ["mat-stroked-button", "", 3, "mat-dialog-close", "color"], ["mat-stroked-button", "", 3, "mat-dialog-close"], [1, "dialog-header-bottom-border"], ["mat-dialog-content", ""], [1, "flex-container"], ["appearance", "outline", "floatLabel", "always"], ["matInput", ""], ["matInput", "", "rows", "4"], [1, "booking-line-table-container"], ["mat-table", "", "matSort", "", "matSortDisableClear", "", 1, "w-100", 3, "dataSource"], ["matColumnDef", "Code"], ["mat-header-cell", "", "mat-sort-header", "", 4, "matHeaderCellDef"], ["mat-cell", "", 4, "matCellDef"], ["matColumnDef", "Description"], ["matColumnDef", "Branch"], ["matColumnDef", "Quantity"], ["matColumnDef", "StartDate"], ["matColumnDef", "EndDate"], ["matColumnDef", "Actions"], ["mat-header-row", "", 4, "matHeaderRowDef", "matHeaderRowDefSticky"], ["mat-row", "", 4, "matRowDef", "matRowDefColumns"], [1, "search-box-header"], [1, "search-box", "flex-container"], ["mat-header-cell", "", "mat-sort-header", ""], ["mat-cell", ""], ["mat-icon-button", "", 3, "click"], ["mat-header-row", ""], ["mat-row", ""]],
         template: function NewBookingDialogComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -4303,77 +4303,83 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "div", 24);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "h4", 24);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "div", 2);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, "Search items for hire");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "table", 12);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](52, 13);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "div", 25);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](53, NewBookingDialogComponent_th_53_Template, 2, 0, "th", 14);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div", 2);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](54, NewBookingDialogComponent_td_54_Template, 2, 1, "td", 15);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "table", 12);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](54, 13);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](55, 16);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](55, NewBookingDialogComponent_th_55_Template, 2, 0, "th", 14);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](56, NewBookingDialogComponent_th_56_Template, 2, 0, "th", 14);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](57, NewBookingDialogComponent_td_57_Template, 2, 1, "td", 15);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](56, NewBookingDialogComponent_td_56_Template, 2, 1, "td", 15);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](58, 17);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](57, 16);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](59, NewBookingDialogComponent_th_59_Template, 2, 0, "th", 14);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](58, NewBookingDialogComponent_th_58_Template, 2, 0, "th", 14);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](60, NewBookingDialogComponent_td_60_Template, 2, 1, "td", 15);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](61, 18);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](62, NewBookingDialogComponent_th_62_Template, 2, 0, "th", 14);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](63, NewBookingDialogComponent_td_63_Template, 2, 1, "td", 15);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](59, NewBookingDialogComponent_td_59_Template, 2, 1, "td", 15);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](64, 19);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](60, 17);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](65, NewBookingDialogComponent_th_65_Template, 2, 0, "th", 14);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](61, NewBookingDialogComponent_th_61_Template, 2, 0, "th", 14);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](66, NewBookingDialogComponent_td_66_Template, 2, 1, "td", 15);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](67, 20);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](68, NewBookingDialogComponent_th_68_Template, 2, 0, "th", 14);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](69, NewBookingDialogComponent_td_69_Template, 2, 1, "td", 15);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](62, NewBookingDialogComponent_td_62_Template, 2, 1, "td", 15);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](70, 21);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](63, 18);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](71, NewBookingDialogComponent_th_71_Template, 2, 0, "th", 14);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](64, NewBookingDialogComponent_th_64_Template, 2, 0, "th", 14);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](72, NewBookingDialogComponent_td_72_Template, 4, 0, "td", 15);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](65, NewBookingDialogComponent_td_65_Template, 2, 1, "td", 15);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](73, NewBookingDialogComponent_tr_73_Template, 1, 0, "tr", 22);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](66, 19);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](74, NewBookingDialogComponent_tr_74_Template, 1, 0, "tr", 23);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](67, NewBookingDialogComponent_th_67_Template, 2, 0, "th", 14);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](68, NewBookingDialogComponent_td_68_Template, 2, 1, "td", 15);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](69, 20);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](70, NewBookingDialogComponent_th_70_Template, 2, 0, "th", 14);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](71, NewBookingDialogComponent_td_71_Template, 2, 1, "td", 15);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](72, 21);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](73, NewBookingDialogComponent_th_73_Template, 2, 0, "th", 14);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](74, NewBookingDialogComponent_td_74_Template, 4, 0, "td", 15);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](75, NewBookingDialogComponent_tr_75_Template, 1, 0, "tr", 22);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](76, NewBookingDialogComponent_tr_76_Template, 1, 0, "tr", 23);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](75, "div", 2);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](77, "div", 2);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4413,7 +4419,7 @@
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("matRowDefColumns", ctx.displayedColumns);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("dataSource", ctx.dataSourceForTable);
 
@@ -4427,7 +4433,7 @@
           }
         },
         directives: [_angular_material_dialog__WEBPACK_IMPORTED_MODULE_1__["MatDialogTitle"], _angular_material_button__WEBPACK_IMPORTED_MODULE_3__["MatButton"], _angular_material_dialog__WEBPACK_IMPORTED_MODULE_1__["MatDialogClose"], _angular_material_dialog__WEBPACK_IMPORTED_MODULE_1__["MatDialogContent"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_4__["MatFormField"], _angular_material_form_field__WEBPACK_IMPORTED_MODULE_4__["MatLabel"], _angular_material_input__WEBPACK_IMPORTED_MODULE_5__["MatInput"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatTable"], _angular_material_sort__WEBPACK_IMPORTED_MODULE_6__["MatSort"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatColumnDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderCellDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatCellDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderRowDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatRowDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderCell"], _angular_material_sort__WEBPACK_IMPORTED_MODULE_6__["MatSortHeader"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatCell"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_7__["MatIcon"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderRow"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatRow"]],
-        styles: [".confirm-dialog__actions[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: flex-end;\n}\n\n.dialog-header[_ngcontent-%COMP%] {\n  display: flex;\n}\n\n.dialog-header-bottom-border[_ngcontent-%COMP%] {\n  border-bottom: 1px solid #e0e0e0;\n  margin-left: -20px;\n  margin-right: -20px;\n  margin-bottom: 15px;\n}\n\nbutton[_ngcontent-%COMP%] {\n  margin-left: 15px;\n}\n\n.fill[_ngcontent-%COMP%] {\n  flex: 1;\n}\n\n.flex-container[_ngcontent-%COMP%] {\n  display: flex;\n}\n\nmat-form-field[_ngcontent-%COMP%] {\n  flex: 1;\n  margin-right: 15px;\n}\n\n.booking-line-table-container[_ngcontent-%COMP%] {\n  min-height: 200px;\n}\n\n.search-box[_ngcontent-%COMP%] {\n  background-color: #a5ceff40;\n  padding: 20px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvc2hhcmVkL2NvbXBvbmVudHMvbmV3LWJvb2tpbmctZGlhbG9nL25ldy1ib29raW5nLWRpYWxvZy5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGFBQUE7RUFDQSx5QkFBQTtBQUNGOztBQUVBO0VBQ0UsYUFBQTtBQUNGOztBQUVBO0VBQ0UsZ0NBQUE7RUFDQSxrQkFBQTtFQUNBLG1CQUFBO0VBQ0EsbUJBQUE7QUFDRjs7QUFFQTtFQUNFLGlCQUFBO0FBQ0Y7O0FBRUE7RUFDRSxPQUFBO0FBQ0Y7O0FBRUE7RUFDRSxhQUFBO0FBQ0Y7O0FBRUE7RUFDRSxPQUFBO0VBQ0Esa0JBQUE7QUFDRjs7QUFFQTtFQUNFLGlCQUFBO0FBQ0Y7O0FBRUE7RUFDRSwyQkFBQTtFQUNBLGFBQUE7QUFDRiIsImZpbGUiOiJzcmMvYXBwL3NoYXJlZC9jb21wb25lbnRzL25ldy1ib29raW5nLWRpYWxvZy9uZXctYm9va2luZy1kaWFsb2cuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY29uZmlybS1kaWFsb2dfX2FjdGlvbnMge1xuICBkaXNwbGF5OiBmbGV4O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtZW5kO1xufVxuXG4uZGlhbG9nLWhlYWRlciB7XG4gIGRpc3BsYXk6IGZsZXg7XG59XG5cbi5kaWFsb2ctaGVhZGVyLWJvdHRvbS1ib3JkZXIge1xuICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2UwZTBlMDtcbiAgbWFyZ2luLWxlZnQ6IC0yMHB4O1xuICBtYXJnaW4tcmlnaHQ6IC0yMHB4O1xuICBtYXJnaW4tYm90dG9tOiAxNXB4O1xufVxuXG5idXR0b24ge1xuICBtYXJnaW4tbGVmdDogMTVweDtcbn1cblxuLmZpbGwge1xuICBmbGV4OiAxO1xufVxuXG4uZmxleC1jb250YWluZXIge1xuICBkaXNwbGF5OiBmbGV4O1xufVxuXG5tYXQtZm9ybS1maWVsZCB7XG4gIGZsZXg6IDE7XG4gIG1hcmdpbi1yaWdodDogMTVweDtcbn1cblxuLmJvb2tpbmctbGluZS10YWJsZS1jb250YWluZXIge1xuICBtaW4taGVpZ2h0OiAyMDBweDtcbn1cblxuLnNlYXJjaC1ib3gge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjYTVjZWZmNDA7XG4gIHBhZGRpbmc6IDIwcHg7XG59Il19 */"]
+        styles: [".confirm-dialog__actions[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: flex-end;\n}\n\n.dialog-header[_ngcontent-%COMP%] {\n  display: flex;\n}\n\n.dialog-header-bottom-border[_ngcontent-%COMP%] {\n  border-bottom: 1px solid #e0e0e0;\n  margin-left: -20px;\n  margin-right: -20px;\n  margin-bottom: 15px;\n}\n\nbutton[_ngcontent-%COMP%] {\n  margin-left: 15px;\n}\n\n.fill[_ngcontent-%COMP%] {\n  flex: 1;\n}\n\n.flex-container[_ngcontent-%COMP%] {\n  display: flex;\n}\n\nmat-form-field[_ngcontent-%COMP%] {\n  flex: 1;\n  margin-right: 15px;\n}\n\n.booking-line-table-container[_ngcontent-%COMP%] {\n  min-height: 200px;\n}\n\n.search-box[_ngcontent-%COMP%] {\n  background-color: #a5ceff40;\n  padding: 20px;\n}\n\n.search-box-header[_ngcontent-%COMP%] {\n  margin-bottom: 0px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvc2hhcmVkL2NvbXBvbmVudHMvbmV3LWJvb2tpbmctZGlhbG9nL25ldy1ib29raW5nLWRpYWxvZy5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGFBQUE7RUFDQSx5QkFBQTtBQUNGOztBQUVBO0VBQ0UsYUFBQTtBQUNGOztBQUVBO0VBQ0UsZ0NBQUE7RUFDQSxrQkFBQTtFQUNBLG1CQUFBO0VBQ0EsbUJBQUE7QUFDRjs7QUFFQTtFQUNFLGlCQUFBO0FBQ0Y7O0FBRUE7RUFDRSxPQUFBO0FBQ0Y7O0FBRUE7RUFDRSxhQUFBO0FBQ0Y7O0FBRUE7RUFDRSxPQUFBO0VBQ0Esa0JBQUE7QUFDRjs7QUFFQTtFQUNFLGlCQUFBO0FBQ0Y7O0FBRUE7RUFDRSwyQkFBQTtFQUNBLGFBQUE7QUFDRjs7QUFFQTtFQUNFLGtCQUFBO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9zaGFyZWQvY29tcG9uZW50cy9uZXctYm9va2luZy1kaWFsb2cvbmV3LWJvb2tpbmctZGlhbG9nLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNvbmZpcm0tZGlhbG9nX19hY3Rpb25zIHtcbiAgZGlzcGxheTogZmxleDtcbiAganVzdGlmeS1jb250ZW50OiBmbGV4LWVuZDtcbn1cblxuLmRpYWxvZy1oZWFkZXIge1xuICBkaXNwbGF5OiBmbGV4O1xufVxuXG4uZGlhbG9nLWhlYWRlci1ib3R0b20tYm9yZGVyIHtcbiAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNlMGUwZTA7XG4gIG1hcmdpbi1sZWZ0OiAtMjBweDtcbiAgbWFyZ2luLXJpZ2h0OiAtMjBweDtcbiAgbWFyZ2luLWJvdHRvbTogMTVweDtcbn1cblxuYnV0dG9uIHtcbiAgbWFyZ2luLWxlZnQ6IDE1cHg7XG59XG5cbi5maWxsIHtcbiAgZmxleDogMTtcbn1cblxuLmZsZXgtY29udGFpbmVyIHtcbiAgZGlzcGxheTogZmxleDtcbn1cblxubWF0LWZvcm0tZmllbGQge1xuICBmbGV4OiAxO1xuICBtYXJnaW4tcmlnaHQ6IDE1cHg7XG59XG5cbi5ib29raW5nLWxpbmUtdGFibGUtY29udGFpbmVyIHtcbiAgbWluLWhlaWdodDogMjAwcHg7XG59XG5cbi5zZWFyY2gtYm94IHtcbiAgYmFja2dyb3VuZC1jb2xvcjogI2E1Y2VmZjQwO1xuICBwYWRkaW5nOiAyMHB4O1xufVxuXG4uc2VhcmNoLWJveC1oZWFkZXIge1xuICBtYXJnaW4tYm90dG9tOiAwcHg7XG59Il19 */"]
       });
       /*@__PURE__*/
 
