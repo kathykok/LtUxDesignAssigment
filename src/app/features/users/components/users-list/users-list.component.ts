@@ -90,6 +90,17 @@ export class UsersListComponent implements OnInit {
     this.setDisplayedColumns()
   }
 
+  public onNewBookingClicked() {
+    let dialogRef = this.dialog.open(NewBookingDialogComponent, {
+      width: '98vw',
+      height: '90vh',
+      data: ({
+        title: 'New Booking',
+        message: 'Custom message here...',
+      } as DialogDataModel),
+    })
+  }
+
   public onRefresh(): void {
     this.loadUsers()
   }
@@ -112,15 +123,7 @@ export class UsersListComponent implements OnInit {
   }
 
   public onEdit(user: User): void {
-
-    let dialogRef = this.dialog.open(NewBookingDialogComponent, {
-      width: '98vw',
-      height: '90vh',
-      data: ({
-        title: 'New Booking',
-        message: 'Custom message here...',
-      } as DialogDataModel),
-    })
+    alert('Edit not implemented yet');
   }
 
   private loadUsers(): void {

@@ -13,6 +13,9 @@ Bookings ({{ (totalCount$ | async) }})
   <mat-icon>refresh</mat-icon>
 </button>
 
+<button mat-raised-button color="accent" (click)="onNewBookingClicked()">New Booking
+</button>
+
 <table mat-table matSort class="w-100" [dataSource]="dataSourceForTable" [matSortActive]="currentSort.active"
   [matSortDirection]="currentSort.direction" (matSortChange)="onMatSortChange($event)" matSortDisableClear>
 

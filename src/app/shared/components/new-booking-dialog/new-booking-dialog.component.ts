@@ -2,6 +2,7 @@ import { Component, Inject, OnInit } from '@angular/core'
 import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog'
 import { DialogDataModel } from '../../models/dialog-data.model'
 import { MatTableDataSource } from '@angular/material/table'
+import { SelectionModel } from '@angular/cdk/collections'
 
 class BookingLine {
   Code: string
@@ -56,8 +57,50 @@ export class NewBookingDialogComponent implements OnInit {
   ];
 
   keywords = '';
+  selection: SelectionModel<HireableItem>;
+  bookingStart: string;
+  bookingEnd: string;
+  quantity: string;
+
+  selectedItem: HireableItem = {
+    Code: '',
+    Description: '',
+    Branch: '',
+    Available: 0,
+  };
 
   constructor(public dialogRef: MatDialogRef<NewBookingDialogComponent>, @Inject(MAT_DIALOG_DATA) public data: DialogDataModel) {
+  }
+
+  getImageNumber(code: string) {
+    return parseInt(code) % 3 + 1;
+  }
+
+  isAllSelected() {
+    const numSelected = this.selection.selected.length;
+    const numRows = this.dataSourceForSearchTable.data.length;
+    return numSelected == numRows;
+  }
+
+  onBookClicked() {
+    let existingItems = this.dataSourceForTable.data;
+
+    let newItem = {
+      Code: this.selectedItem.Code,
+      Description: this.selectedItem.Description,
+      Branch: this.selectedItem.Branch,
+      Quantity: parseInt(this.quantity),
+      StartDate: new Date(this.bookingStart),
+      EndDate: new Date(this.bookingEnd),
+    };
+
+    this.dataSourceForTable = new MatTableDataSource([...existingItems, newItem]);
+  }
+
+  toggleAllRows() {
+    this.isAllSelected() ?
+      this.selection.clear() :
+      this.dataSourceForSearchTable.data.forEach(row => this.selection.select(row));
   }
 
   ngOnInit(): void {
@@ -65,11 +108,32 @@ export class NewBookingDialogComponent implements OnInit {
     this.dataSourceForSearchTable = new MatTableDataSource(this.allHireableItems);
 
     this.setDisplayedColumns()
+
+    const initialSelection = [];
+    const allowMultiSelect = false;
+    this.selection = new SelectionModel<HireableItem>(allowMultiSelect, initialSelection);
+
+    this.selection.changed.subscribe({
+      next: this.setHireableItem.bind(this),
+      error: this.handleError.bind(this)
+    });
+  }
+
+  setHireableItem(event: any): void {
+    if (event.added.length === 1) {
+      let itemAdded = event.added[0];
+      this.selectedItem = { ...itemAdded };
+    } else {
+      this.selectedItem = null;
+    }
+  }
+
+  handleError(error: any): void {
   }
 
   private setDisplayedColumns(): void {
     this.displayedColumns = ['Code', 'Description', 'Branch', 'Quantity', 'StartDate', 'EndDate', 'Actions'];
-    this.displayedSearchColumns = ['Code', 'Description', 'Branch', 'Available'];
+    this.displayedSearchColumns = ['select', 'Code', 'Description', 'Branch', 'Available'];
   }
 
   onSearchClicked() {
@@ -78,6 +142,7 @@ export class NewBookingDialogComponent implements OnInit {
   }
 
   onDelete(element) {
-    alert('delete not implemented yet');
+    let newItems = this.dataSourceForTable.data.filter(x => x !== element);
+    this.dataSourceForTable = new MatTableDataSource(newItems);
   }
 }

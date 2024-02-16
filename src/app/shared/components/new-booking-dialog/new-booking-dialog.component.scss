@@ -16,7 +16,6 @@
 
 table {
   margin-top: 15px;
-  min-height: 200px;
 }
 
 .full-width {
@@ -42,6 +41,14 @@ mat-form-field {
 
 .booking-line-table-container {
   min-height: 200px;
+}
+
+.mat-dialog-content {
+  max-height: none;
+}
+
+.search-table-container {
+  min-height: 400px;
 }
 
 .search-box {
